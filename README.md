@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SivaKumar M S
+- 👋 Hi, I’m @SivaKumar M S , my friends call me "SK".
 - 👀 I’m interested in doing code related work
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on front end development 
+- 💞️ I’m looking forward for some internships. 
 - 📫 Reach me on "sivakumar.m.s.2004@gmail.com" or "+919544220937"
 - 🌐 studied computer science on higher secondary 
 - 🧑‍💻 Did a python course from whitehat jr
