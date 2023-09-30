@@ -5,11 +5,10 @@
 - 💞️ I’m looking forward to doing some internships. 
 - 📫 Reach me on "anandhusiva1234@gmail.com" or "+919544220937"
 - 🌐 studied computer science in higher secondary 
-- 🧑‍💻 Did data analysis courses 
-- 🧑‍💻 Did a web development course and many more
-- belave passionate about learning from mistakes
-- I'm a person who believes in failures and learning from those. Without mistakes, we can't learn what our weakness
-- python is the most loved language for me, may be because it was the first language that I've learned. :)
+- 🧑‍💻 Did a few courses related to web development, data science, data analysis, python, etc.
+- 👽Passionate about learning from mistakes
+- 👻I'm a person who believes in failures and learning from those is inevitable for success.
+- 🤖python is the most loved language for me, maybe because it was the first language that I've learned. :)
 
 <!---
 SivaKumar-004/SivaKumar-004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
