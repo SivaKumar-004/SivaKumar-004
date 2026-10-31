@@ -16,7 +16,7 @@
 
 I started building in school: **Arduino boards, electrical tinkering, small hardware**, and moved through software, **data analysis and data science** into full-stack engineering. About **ten years in**, I now ship products with a toolchain of AI coding agents, and I care as much about *proving the code works* as I do about writing it quickly.
 
-📍 Thiruvananthapuram, Kerala, India · 🎓 **IIT Madras**, BS in Data Science & Applications (since 2023) · 🔎 Open to **AI engineering, full-stack and data roles** and internships
+📍 Thiruvananthapuram, Kerala, India · 🎓 **B.Tech CSE (AI & ML)** at College of Engineering Attingal (since 2023) · 🔎 Open to **AI engineering, full-stack and data roles** and internships
 
 ## ⚡ At a glance
 
@@ -92,7 +92,7 @@ timeline
   ≈2019 : Hardware + software making
   ≈2021 : Python, data analysis, data science
   2022 : GitHub profile created
-  2023 : Began BS in Data Science & Applications at IIT Madras
+  2023 : Began B.Tech CSE (AI & ML) at College of Engineering Attingal
   2024 : Data Science Intern at Entri (dbt)
   2025 : IEEE Student Branch Chair, AI-native shipping
   2026 : Claude Code daily driver, plus Codex, Cursor, Antigravity, Lovable
