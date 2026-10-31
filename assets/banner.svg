@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Siva Kumar M S: AI engineer and full-stack builder. Ten years of building, now at agent speed.">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff6b2c"/><stop offset="1" stop-color="#4ce0d2"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1a1d23" stroke-width="1"/></pattern>
+  </defs>
+  <style>
+    .t{font-family:'Iowan Old Style',Georgia,serif}
+    .m{font-family:'Cascadia Mono',Consolas,monospace}
+    .r{opacity:0;animation:cycle 12s infinite}
+    .r2{animation-delay:4s}.r3{animation-delay:8s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(8px)}4%,28%{opacity:1;transform:none}33%,100%{opacity:0}}
+    .dot{animation:p 2s infinite}@keyframes p{50%{opacity:.25}}
+    .scan{animation:s 6s linear infinite}@keyframes s{from{transform:translateX(-220px)}to{transform:translateX(1420px)}}
+  </style>
+  <rect width="1200" height="320" fill="#07080a"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect class="scan" y="0" width="220" height="320" fill="url(#g)" opacity=".07"/>
+  <circle class="dot" cx="64" cy="58" r="5" fill="#4ce0d2"/>
+  <text class="m" x="80" y="63" fill="#9aa1ad" font-size="14" letter-spacing="2">OPEN TO AI ENGINEERING · FULL-STACK · DATA ROLES</text>
+  <text class="t" x="60" y="156" fill="#edebe6" font-size="84" letter-spacing="-3">Siva Kumar M S</text>
+  <g class="m" font-size="22" fill="url(#g)">
+    <text class="r"      x="64" y="214">Ten years of building. Now at agent speed.</text>
+    <text class="r r2"   x="64" y="214">Claude Code · Codex · Cursor · Antigravity · Lovable</text>
+    <text class="r r3"   x="64" y="214">From Arduino circuits to production AI products.</text>
+  </g>
+  <g class="m" font-size="14" fill="#9aa1ad">
+    <text x="64" y="272">IIT Madras BS Data Science  ·  16 months as IEEE Student Branch Chair</text>
+  </g>
+  <rect x="64" y="284" width="140" height="3" fill="url(#g)"/>
+</svg>
